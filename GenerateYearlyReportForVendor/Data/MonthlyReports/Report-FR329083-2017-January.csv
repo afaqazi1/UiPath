@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+677731,"Various paper supplies",198030,39606,237636,CAD,2017-01-26
+788855,"Concierge Services",159311,31862.2,191173,EUR,2017-01-09
+895827,"Various paper supplies",199568,39913.6,239482,CAD,2017-01-00

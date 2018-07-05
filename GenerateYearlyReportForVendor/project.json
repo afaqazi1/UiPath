@@ -1,0 +1,14 @@
+{
+  "name": "GenerateYearlyReportForVendor",
+  "description": "Assignment 2",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6754.27327",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
